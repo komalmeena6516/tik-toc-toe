@@ -1,4 +1,9 @@
 
+.heading{
+  margin: 10px 0;
+  text-align: center;
+}
+
 .icon{
     color: tomato;
     font-size: 2rem;
